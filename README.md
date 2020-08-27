@@ -15,5 +15,6 @@ Knowledge representation learning
 - Representation Learning of Knowledge Graphs with Hierarchical Types(TKRL);
 - 融合实体类别信息的知识图谱表示学习方法(TEKRL)
 - Type-Constrained Representation Learning in Knowledge Graphs;
+- Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning(IterE忘记了);
 - 
 

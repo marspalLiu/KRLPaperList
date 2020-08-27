@@ -12,9 +12,9 @@ Knowledge representation learning
 - Translating Embeddings for Modeling Multi-relational Data(TransE);
 - Knowledge Graph Embedding by Translating on Hyperplanes(TransH);
 - Knowledge Graph Embedding via Dynamic Mapping Matrix(TransD);
+- Type-Constrained Representation Learning in Knowledge Graphs;
 - Representation Learning of Knowledge Graphs with Hierarchical Types(TKRL);
 - 融合实体类别信息的知识图谱表示学习方法(TEKRL)
-- Type-Constrained Representation Learning in Knowledge Graphs;
 - Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning(IterE忘记了);
 - Differentiating Concepts and Instances for Knowledge Graph Embedding(TransC);
 - TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure;

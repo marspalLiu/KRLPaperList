@@ -1,7 +1,5 @@
 # KRLPaperList
-Knowledge representation learning 
-
-# Those what I have read
+Knowledge representation learning Those what I have read
 
 ## 综述类
 - 知识图谱数据管理研究综述；

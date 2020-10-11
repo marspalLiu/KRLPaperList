@@ -20,3 +20,4 @@ Knowledge representation learning Those what I have read
 ## 融入实体类型
 - TKRL: Representation Learning of Knowledge Graphs with Hierarchical Types(ijcai );
 - AutoETER: Automated Entity Type Representation for Knowledge Graph Embedding(EMNLP 2020);
+- KR-EAR: Knowledge Representation Learning with Entities, Attributes and Relations (IJCAI 2016);

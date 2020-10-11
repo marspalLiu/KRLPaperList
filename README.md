@@ -26,3 +26,4 @@ Knowledge representation learning Those what I have read
 ## 优化相关
 ### CWA闭合世界假说的优化
 - Incorporating Entity Type Information into Knowledge Representation Learning (DSC 2020);
+;TPPA is a simple method which uses the Bayes’ possibility theorem to generate a prior possibility of each triplet. Then TPPA replaces the zero possibility of the missing triplet with the generated prior possibility during training KRL models to overcome drawbacks of CWA in link prediction.

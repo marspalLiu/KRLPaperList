@@ -23,6 +23,13 @@ Knowledge representation learning Those what I have read
 - AutoETER: Automated Entity Type Representation for Knowledge Graph Embedding(EMNLP 2020);
 - KR-EAR: Knowledge Representation Learning with Entities, Attributes and Relations (IJCAI 2016);
 
+## 本体信息
+- JOIE:Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts (KDD 2019);
+
+## InstanceOf
+- Differentiating Concepts and Instances for Knowledge Graph Embedding(TransC);
+- JOIE:Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts (KDD 2019);
+
 ## 优化相关
 ### CWA闭合世界假说的优化
 - Incorporating Entity Type Information into Knowledge Representation Learning (DSC 2020);
